@@ -1,12 +1,19 @@
+
 ![Data Science and AI](https://github.com/asmas0000/asmas0000/assets/144702981/5de1f1c0-94e3-4f8d-84f7-eac5c9857044)  
-  # Hi there, I'm Asma Shaikh! 👋
 
-## An Aspiring Data Scientist
+<h1 align="center">Hi there, I'm Asma Shaikh! 👋</h1>
 
+
+
+## 🔗About me 
+
+- 💡An Aspiring Data Scientist
 - 🔭 I’m currently working on enhancing my skills in data science and machine learning.
 - 🌱 I’m currently learning advanced algorithms, neural networks, and deep learning techniques.
 - 👯 I’m looking to collaborate on data-driven projects and AI research.
 - 💬 Ask me about data analysis, machine learning, and AI.
+- ⚡ Fun fact: I love solving puzzles and participating in data science competitions!
+
 
 📫 How to reach me: asmashaikh6122@gmail.com
 
@@ -15,7 +22,11 @@
 - LinkedIn: [Asma Shaikh](https://www.linkedin.com/in/asmashk/)
 - GitHub: [asmagithub](https://github.com/asmas0000)
 
+
+
 ## 🛠️ Languages and Tools
+<img align="right" src="https://github.com/asmas0000/asmas0000/assets/144702981/27901658-c8b0-4ad2-bc4b-40d1b6107220" width="480" height="320">
+
 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logoColor=white)
@@ -26,6 +37,8 @@
 - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white)
 - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)
 - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+
 
 
 ## 📈 GitHub Stats
